@@ -1,4 +1,25 @@
-# Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
+# Material Design Only For Vanthink UED
+
+### CDN
+
+
+``` bash
+css
+
+<link rel="stylesheet" href="http://s1.vued.vanthink.cn/angular-material.min.css?v=1.1.0-RC.5" />
+
+Js
+
+<script src="http://s1.vued.vanthink.cn/angular-material.min.js?v=1.1.0-RC.5"></script>
+```
+
+### Fixed log
+
+主要修复了Android UC Flex bug
+
+
+
+## Material Design for AngularJS Apps [![Build Status](https://travis-ci.org/angular/material.svg)](https://travis-ci.org/angular/material)
 
 [Material Design](https://www.google.com/design/spec/material-design/) is a specification for a
 unified system of visual, motion, and interaction design that adapts across different devices. Our
