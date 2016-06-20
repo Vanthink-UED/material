@@ -15,7 +15,12 @@ Js
 
 ### Fixed log
 
-主要修复了Android UC Flex bug
+主要修复了Android UC Flex bug 
+
+
+### 优化建议
+
++ 使用 flex,建议都使用在block(div ,p)元素上，避免android下面某些行内元素(`span ,i`)不能够自动适应
 
 
 
